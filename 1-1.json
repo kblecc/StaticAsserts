@@ -9,7 +9,7 @@
             "default_order": 1,
             "name": "monster 11",
             "properties": {
-              "hp": 100,
+              "hp": 1000000,
               "sp": 0,
               "maxSp": 100,
               "attack": 100,
