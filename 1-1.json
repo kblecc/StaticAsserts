@@ -1,7 +1,7 @@
 {
     "area": 1,
     "level": 1,
-    "waves": [
+    "wave": [
       {
         "order": 1,
         "enemy": [
