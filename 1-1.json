@@ -10,8 +10,7 @@
             "name": "monster 11",
             "properties": {
               "hp": 1000000,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -23,8 +22,7 @@
             "name": "monster 12",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -36,8 +34,7 @@
             "name": "monster 13",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -49,8 +46,7 @@
             "name": "monster 14",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -62,8 +58,7 @@
             "name": "monster 15",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -80,8 +75,7 @@
             "name": "monster 21",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -93,8 +87,7 @@
             "name": "monster 22",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -106,8 +99,7 @@
             "name": "monster 23",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -119,8 +111,7 @@
             "name": "monster 24",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -132,8 +123,7 @@
             "name": "monster 25",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -150,8 +140,7 @@
             "name": "monster 31",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -163,8 +152,7 @@
             "name": "monster 32",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -176,8 +164,7 @@
             "name": "monster 33",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -189,8 +176,7 @@
             "name": "monster 34",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
@@ -202,8 +188,7 @@
             "name": "monster 35",
             "properties": {
               "hp": 100,
-              "sp": 0,
-              "maxSp": 100,
+              "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
               "defend": 100,
