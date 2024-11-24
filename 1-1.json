@@ -10,7 +10,7 @@
             "name": "monster 11",
             "properties": {
                 "attribute": "water",
-              "hp": 1000000,
+              "hp": 100,
               "skillTurn": 5,
               "attack": 100,
               "attackMode": "single",
