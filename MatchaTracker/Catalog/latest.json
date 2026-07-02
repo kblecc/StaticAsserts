@@ -8,19 +8,19 @@
         "type": "can",
         "weight": 20,
         "price": 21600,
-        "imageUrl": "https://github.com/kblecc/StaticAsserts/blob/main/MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-20g-7332.jpg?raw=true"
+        "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-20g-7332.jpg"
       },
       {
         "type": "can",
         "weight": 40,
         "price": 43200,
-        "imageUrl": "https://github.com/kblecc/StaticAsserts/blob/main/MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-40g-7382.jpg?raw=true"
+        "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-40g-7382.jpg"
       },
       {
         "type": "can",
         "weight": 100,
         "price": 105840,
-        "imageUrl": "https://github.com/kblecc/StaticAsserts/blob/main/MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju.jpg?raw=true"
+        "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju.jpg"
       }
     ]
   },
