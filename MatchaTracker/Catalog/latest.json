@@ -1,59 +1,72 @@
-[
-  {
-    "brand": "丸久小山園",
-    "name": "天授",
-    "description": "全国茶品評会で賞をいただいた手づくりの抹茶<br>濃茶で特徴のある味と香りをお楽しみください。 <br>濃茶にも使用していただけます。<br> 茶銘入り専用箱が付きます。",
-    "options": [
-      {
-        "type": "can",
-        "weight": 20,
-        "price": 21600,
-        "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-20g-7332.jpg"
-      },
-      {
-        "type": "can",
-        "weight": 40,
-        "price": 43200,
-        "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-40g-7382.jpg"
-      },
-      {
-        "type": "can",
-        "weight": 100,
-        "price": 105840,
-        "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju.jpg"
-      }
-    ]
-  },
-  {
-    "brand": "丸久小山園",
-    "name": "極長安",
-    "description": "２０２２年、イギリスに本部を置く「UK TEA ACADEMY」主催の『THE LEAFIES 2022』にて、抹茶部門にて「金賞」を受賞した抹茶です。  <br>茶銘入り専用箱が付きます。",
-    "options": [
-      {
-        "type": "can",
-        "weight": 40,
-        "price": 26568,
-        "imageUrl": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=400"
-      },
-      {
-        "type": "can",
-        "weight": 20,
-        "price": 13500,
-        "imageUrl": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=400"
-      }
-    ]
-  },
-  {
-    "brand": "Ippodo Tea",
-    "name": "Sayaka",
-    "description": "Well-rounded full umami sweetness profile structure.",
-    "options": [
-      {
-        "type": "can",
-        "weight": 40,
-        "price": 34,
-        "imageUrl": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=400"
-      }
-    ]
-  }
-]
+{
+  "record": [
+    {
+      "brandName": "丸久小山園",
+      "brandCoverUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main/MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/international-logo.jpg",
+      "brandDescription": "丸久小山園は元禄年間、茶に適した宇治小倉の里で園祖小山久次郎が茶の栽培と製造を手がけたのが始まりです。以来、代々にわたり、宇治茶の伝統と品質の改善に努め、四代後には茶の販売も手がけるようになりました。その後、明治に入って八代目を継いだ元次郎は「品質本位の茶づくり」を更に推し進め、多くのご愛飲の方々に支持をいただいております。",
+      "matchas": [
+        {
+          "name": "極長安",
+          "description": "２０２２年、イギリスに本部を置く「UK TEA ACADEMY」主催の『THE LEAFIES 2022』にて、抹茶部門にて「金賞」を受賞した抹茶です。 <br>茶銘入り専用箱が付きます。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 20,
+              "priceYen": 13500,
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main/MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/1dd8e406e3448b683a521d7a41da508e.jpg.webp"
+            },
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 26568,
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main/MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/c7776c3f232107f4c26c3d5602baad28.jpg.webp"
+            }
+          ]
+        },
+        {
+          "name": "天授",
+          "description": "全国茶品評会で賞をいただいた手づくりの抹茶<br>濃茶で特徴のある味と香りをお楽しみください。 <br>濃茶にも使用していただけます。<br> 茶銘入り専用箱が付きます。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 43200,
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-40g-7382.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 100,
+              "priceYen": 105840,
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 20,
+              "priceYen": 21600,
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-20g-7332.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "brandName": "Ippodo Tea (一保堂茶舗)",
+      "brandCoverUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800",
+      "brandDescription": "Operating from the heart of Kyoto since 1717. Ippodo provides classic character profiles with well-rounded fragrance parameters, creamy mouthfeels, and clean finishes.",
+      "matchas": [
+        {
+          "name": "Sayaka (明香)",
+          "description": "A comforting, light ceremonial matcha.\nOffers an approachable savory flavor combined with a smooth, mild sweetness profile suitable for continuous everyday enjoyment.",
+          "options": [
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 3800,
+              "imageUrl": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=500"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
