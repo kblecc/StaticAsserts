@@ -73,13 +73,13 @@
               "type": "can",
               "weight": 20,
               "priceYen": 4968,
-              "imageUrl": "kble/01-03-eiju-20g-7336.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-03-eiju-20g-7336.jpg"
             },
             {
               "type": "can",
               "weight": 40,
               "priceYen": 9720,
-              "imageUrl": "kble/01-03-eiju-40g-7387.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-03-eiju-40g-7387.jpg"
             }
           ]
         },
@@ -91,25 +91,25 @@
               "type": "can",
               "weight": 20,
               "priceYen": 3888,
-              "imageUrl": "kble/01-04-unkaku-20g-7338.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-04-unkaku-20g-7338.jpg"
             },
             {
               "type": "can",
               "weight": 40,
               "priceYen": 7560,
-              "imageUrl": "kble/01-04-unkaku-40g-7389.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-04-unkaku-40g-7389.jpg"
             },
             {
               "type": "can",
               "weight": 100,
               "priceYen": 18360,
-              "imageUrl": "kble/01-04-unkaku.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-04-unkaku.jpg"
             },
             {
               "type": "bag",
               "weight": 100,
               "priceYen": 18036,
-              "imageUrl": "kble/01-04-unkaku.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-04-unkaku.jpg"
             }
           ]
         },
@@ -121,25 +121,25 @@
               "type": "can",
               "weight": 20,
               "priceYen": 3132,
-              "imageUrl": "kble/01-05-kinrin-20g-7342.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-05-kinrin-20g-7342.jpg"
             },
             {
               "type": "can",
               "weight": 40,
               "priceYen": 6048,
-              "imageUrl": "kble/01-05-kinrin-40g-7391.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-05-kinrin-40g-7391.jpg"
             },
             {
               "type": "can",
               "weight": 100,
               "priceYen": 14580,
-              "imageUrl": "kble/01-05-kinrin.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-05-kinrin.jpg"
             },
             {
               "type": "bag",
               "weight": 100,
               "priceYen": 14256,
-              "imageUrl": "kble/01-05-kinrin.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-05-kinrin.jpg"
             }
           ]
         },
@@ -151,31 +151,31 @@
               "type": "can",
               "weight": 20,
               "priceYen": 2483,
-              "imageUrl": "kble/01-06-wako-20g-7344.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-06-wako-20g-7344.jpg"
             },
             {
               "type": "can",
               "weight": 40,
               "priceYen": 4752,
-              "imageUrl": "kble/01-06-wako-40g-7393.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-06-wako-40g-7393.jpg"
             },
             {
               "type": "can",
               "weight": 100,
               "priceYen": 11340,
-              "imageUrl": "kble/01-06-wako.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-06-wako.jpg"
             },
             {
               "type": "bag",
               "weight": 100,
               "priceYen": 11016,
-              "imageUrl": "kble/01-06-wako.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-06-wako.jpg"
             },
             {
               "type": "can",
               "weight": 200,
               "priceYen": 22140,
-              "imageUrl": "kble/01-06-wako.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-06-wako.jpg"
             }
           ]
         },
@@ -187,31 +187,31 @@
               "type": "can",
               "weight": 20,
               "priceYen": 2052,
-              "imageUrl": "kble/01-07-yugen-20g-7346.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-07-yugen-20g-7346.jpg.webp"
             },
             {
               "type": "can",
               "weight": 40,
               "priceYen": 3888,
-              "imageUrl": "kble/01-07-yugen-40g-7395.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-07-yugen-40g-7395.jpg.webp"
             },
             {
               "type": "can",
               "weight": 100,
               "priceYen": 9180,
-              "imageUrl": "kble/01-07-yugen.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-07-yugen.jpg.webp"
             },
             {
               "type": "bag",
               "weight": 100,
               "priceYen": 8856,
-              "imageUrl": "kble/01-07-yugen.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-07-yugen.jpg.webp"
             },
             {
               "type": "can",
               "weight": 200,
               "priceYen": 17820,
-              "imageUrl": "kble/01-07-yugen.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-07-yugen.jpg.webp"
             }
           ]
         },
@@ -223,25 +223,25 @@
               "type": "can",
               "weight": 40,
               "priceYen": 3024,
-              "imageUrl": "kble/01-08-chiginoshiro-40g-7398.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-08-chiginoshiro-40g-7398.jpg"
             },
             {
               "type": "can",
               "weight": 100,
               "priceYen": 7020,
-              "imageUrl": "kble/01-08-chiginoshiro-40g-7398.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-08-chiginoshiro-40g-7398.jpg"
             },
             {
               "type": "bag",
               "weight": 100,
               "priceYen": 6696,
-              "imageUrl": "kble/01-08-chiginoshiro-40g-7398.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-08-chiginoshiro-40g-7398.jpg"
             },
             {
               "type": "can",
               "weight": 200,
               "priceYen": 15300,
-              "imageUrl": "kble/01-08-chiginoshiro-40g-7398.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-08-chiginoshiro-40g-7398.jpg"
             }
           ]
         },
@@ -253,25 +253,25 @@
               "type": "can",
               "weight": 40,
               "priceYen": 2592,
-              "imageUrl": "kble/01-09-isuzu-40g-7400.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-09-isuzu-40g-7400.jpg.webp"
             },
             {
               "type": "can",
               "weight": 100,
               "priceYen": 5940,
-              "imageUrl": "kble/01-09-isuzu-40g-7400.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-09-isuzu-40g-7400.jpg.webp"
             },
             {
               "type": "bag",
               "weight": 100,
               "priceYen": 5616,
-              "imageUrl": "kble/01-09-isuzu-40g-7400.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-09-isuzu-40g-7400.jpg.webp"
             },
             {
               "type": "can",
               "weight": 200,
               "priceYen": 11340,
-              "imageUrl": "kble/01-09-isuzu-40g-7400.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-09-isuzu-40g-7400.jpg.webp"
             }
           ]
         },
@@ -283,25 +283,25 @@
               "type": "can",
               "weight": 40,
               "priceYen": 2160,
-              "imageUrl": "kble/01-10-aoarashi-40g-7402.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-10-aoarashi-40g-7402.jpg.webp"
             },
             {
               "type": "can",
               "weight": 100,
               "priceYen": 4860,
-              "imageUrl": "kble/01-10-aoarashi-40g-7402.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-10-aoarashi-40g-7402.jpg.webp"
             },
             {
               "type": "bag",
               "weight": 100,
               "priceYen": 4536,
-              "imageUrl": "kble/01-10-aoarashi-40g-7402.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-10-aoarashi-40g-7402.jpg.webp"
             },
             {
               "type": "can",
               "weight": 200,
               "priceYen": 9180,
-              "imageUrl": "kble/01-10-aoarashi-40g-7402.jpg.webp"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-10-aoarashi-40g-7402.jpg.webp"
             }
           ]
         }
