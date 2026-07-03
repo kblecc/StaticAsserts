@@ -25,25 +25,283 @@
         },
         {
           "name": "天授",
-          "description": "全国茶品評会で賞をいただいた手づくりの抹茶<br>濃茶で特徴のある味と香りをお楽しみください。 <br>濃茶にも使用していただけます。<br> 茶銘入り専用箱が付きます。",
+          "description": "全国茶品評会で賞をいただいた手づくりの抹茶。濃茶で特徴のある味と香りをお楽しみください。 濃茶にも使用していただけます。茶銘入り専用箱が付きます。",
           "options": [
+            {
+              "type": "can",
+              "weight": 20,
+              "priceYen": 21600,
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-20g-7332.jpg"
+            },
             {
               "type": "can",
               "weight": 40,
               "priceYen": 43200,
-              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-40g-7382.jpg"
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main/MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-40g-7382.jpg"
             },
             {
               "type": "can",
               "weight": 100,
               "priceYen": 105840,
               "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju.jpg"
+            }
+          ]
+        },
+        {
+          "name": "長安",
+          "description": "当たりがとてもソフトでまろやか。 独特の上品な香りとともに、心ゆったりと味わっていただきたい抹茶。 薄茶では少し、濃いめに点ててお召し上がりください。 茶銘入り専用箱が付きます。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 14796,
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-02-choan-40g-7385.jpg.webp"
             },
             {
               "type": "can",
+              "weight": 40,
+              "priceYen": 14796,
+              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-02-choan-20g-7334.jpg.webp"
+            }
+          ]
+        },
+        {
+          "name": "永寿",
+          "description": "爽やかな香りと軽やかでまろやかな風味が、とても気持ちのいい抹茶。 薄茶では少し、濃いめに点ててお召し上がりください。",
+          "options": [
+            {
+              "type": "can",
               "weight": 20,
-              "priceYen": 21600,
-              "imageUrl": "https://raw.githubusercontent.com/kblecc/StaticAsserts/refs/heads/main//MatchaTracker/Image/%E4%B8%B8%E4%B9%85%E5%B0%8F%E5%B1%B1%E5%9C%92/01-01-tenju-20g-7332.jpg"
+              "priceYen": 4968,
+              "imageUrl": "kble/01-03-eiju-20g-7336.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 9720,
+              "imageUrl": "kble/01-03-eiju-40g-7387.jpg"
+            }
+          ]
+        },
+        {
+          "name": "雲鶴",
+          "description": "柔らかな口当たりとあまい香りがほどよく、コクを感じさせる代表的な上級抹茶。お客様のご指定も多くいただく抹茶です。 ※濃茶にも使用していただけます。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 20,
+              "priceYen": 3888,
+              "imageUrl": "kble/01-04-unkaku-20g-7338.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 7560,
+              "imageUrl": "kble/01-04-unkaku-40g-7389.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 100,
+              "priceYen": 18360,
+              "imageUrl": "kble/01-04-unkaku.jpg"
+            },
+            {
+              "type": "bag",
+              "weight": 100,
+              "priceYen": 18036,
+              "imageUrl": "kble/01-04-unkaku.jpg"
+            }
+          ]
+        },
+        {
+          "name": "金輪",
+          "description": "新鮮さ、まろやかさ、コク、それぞれがしっかりとミックスされた独特の風味にファンも多い抹茶。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 20,
+              "priceYen": 3132,
+              "imageUrl": "kble/01-05-kinrin-20g-7342.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 6048,
+              "imageUrl": "kble/01-05-kinrin-40g-7391.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 100,
+              "priceYen": 14580,
+              "imageUrl": "kble/01-05-kinrin.jpg"
+            },
+            {
+              "type": "bag",
+              "weight": 100,
+              "priceYen": 14256,
+              "imageUrl": "kble/01-05-kinrin.jpg"
+            }
+          ]
+        },
+        {
+          "name": "和光",
+          "description": "新鮮な香りと、後口が爽やかで喉ごしの良い上品なおうすと評判の抹茶。 和菓子はもちろん、洋菓子にも良くあいます。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 20,
+              "priceYen": 2483,
+              "imageUrl": "kble/01-06-wako-20g-7344.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 4752,
+              "imageUrl": "kble/01-06-wako-40g-7393.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 100,
+              "priceYen": 11340,
+              "imageUrl": "kble/01-06-wako.jpg"
+            },
+            {
+              "type": "bag",
+              "weight": 100,
+              "priceYen": 11016,
+              "imageUrl": "kble/01-06-wako.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 200,
+              "priceYen": 22140,
+              "imageUrl": "kble/01-06-wako.jpg"
+            }
+          ]
+        },
+        {
+          "name": "又玄",
+          "description": "新鮮な緑を感じさせる香りと、軽い渋味とうま味のハーモニーは、和菓子にも洋菓子にも良くあい、多くの方々から親しまれている抹茶です。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 20,
+              "priceYen": 2052,
+              "imageUrl": "kble/01-07-yugen-20g-7346.jpg.webp"
+            },
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 3888,
+              "imageUrl": "kble/01-07-yugen-40g-7395.jpg.webp"
+            },
+            {
+              "type": "can",
+              "weight": 100,
+              "priceYen": 9180,
+              "imageUrl": "kble/01-07-yugen.jpg.webp"
+            },
+            {
+              "type": "bag",
+              "weight": 100,
+              "priceYen": 8856,
+              "imageUrl": "kble/01-07-yugen.jpg.webp"
+            },
+            {
+              "type": "can",
+              "weight": 200,
+              "priceYen": 17820,
+              "imageUrl": "kble/01-07-yugen.jpg.webp"
+            }
+          ]
+        },
+        {
+          "name": "千木の白",
+          "description": "軽い渋味やうま味とあおい香りがしっかりと主張する抹茶。 やや、薄めに点ててお召し上がりください。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 3024,
+              "imageUrl": "kble/01-08-chiginoshiro-40g-7398.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 100,
+              "priceYen": 7020,
+              "imageUrl": "kble/01-08-chiginoshiro-40g-7398.jpg"
+            },
+            {
+              "type": "bag",
+              "weight": 100,
+              "priceYen": 6696,
+              "imageUrl": "kble/01-08-chiginoshiro-40g-7398.jpg"
+            },
+            {
+              "type": "can",
+              "weight": 200,
+              "priceYen": 15300,
+              "imageUrl": "kble/01-08-chiginoshiro-40g-7398.jpg"
+            }
+          ]
+        },
+        {
+          "name": "五十鈴",
+          "description": "あおい香りと渋味や、ほのかなうま味の中に、やや苦味も感じる抹茶。 少し、薄めに点ててお召し上がりください。 また製菓などミルクやクリームに混ぜると、よくマッチします。",
+          "options": [
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 2592,
+              "imageUrl": "kble/01-09-isuzu-40g-7400.jpg.webp"
+            },
+            {
+              "type": "can",
+              "weight": 100,
+              "priceYen": 5940,
+              "imageUrl": "kble/01-09-isuzu-40g-7400.jpg.webp"
+            },
+            {
+              "type": "bag",
+              "weight": 100,
+              "priceYen": 5616,
+              "imageUrl": "kble/01-09-isuzu-40g-7400.jpg.webp"
+            },
+            {
+              "type": "can",
+              "weight": 200,
+              "priceYen": 11340,
+              "imageUrl": "kble/01-09-isuzu-40g-7400.jpg.webp"
+            }
+          ]
+        },
+        {
+          "name": "青嵐",
+          "description": "Insert taste summary characteristics notes...",
+          "options": [
+            {
+              "type": "can",
+              "weight": 40,
+              "priceYen": 2160,
+              "imageUrl": "kble/01-10-aoarashi-40g-7402.jpg.webp"
+            },
+            {
+              "type": "can",
+              "weight": 100,
+              "priceYen": 4860,
+              "imageUrl": "kble/01-10-aoarashi-40g-7402.jpg.webp"
+            },
+            {
+              "type": "bag",
+              "weight": 100,
+              "priceYen": 4536,
+              "imageUrl": "kble/01-10-aoarashi-40g-7402.jpg.webp"
+            },
+            {
+              "type": "can",
+              "weight": 200,
+              "priceYen": 9180,
+              "imageUrl": "kble/01-10-aoarashi-40g-7402.jpg.webp"
             }
           ]
         }
